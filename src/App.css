@@ -1,0 +1,8 @@
+.App {
+  height: fit-content;
+
+  border-top: 1px solid rgb(125, 211, 219);
+  border-bottom: 1px solid rgb(125, 211, 219);
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

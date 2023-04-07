@@ -1,0 +1,53 @@
+.mainDiv {
+    display: flex;
+    justify-content: space-between;
+}
+
+.LogoButtons {
+    display: flex;
+    align-items: end;
+    flex-direction: column;
+    text-align: end;
+    margin-top: 10px;
+}
+
+.buttons {}
+
+.picturesMainTop {
+    margin-top: 10px;
+
+    display: flex;
+}
+
+.picMainTop {
+    background-size: cover;
+    margin-right: 15px;
+    border: solid 1px rgb(98, 162, 178);
+    border-radius: 5px;
+    height: 150px;
+    width: 150px;
+}
+
+.centerPic {
+    margin-top: 10px;
+    background-image: url('../../public/mainSalmon.jpg');
+    background-size: cover;
+    height: 150px;
+    width: 315px;
+    border: solid 1px rgb(98, 162, 178);
+    border-radius: 5px;
+}
+
+.picturesMainBottom {
+    margin-top: 10px;
+    display: flex;
+}
+
+.picMainBottom {
+    background-size: cover;
+    margin-right: 15px;
+    border: solid 1px rgb(98, 162, 178);
+    border-radius: 5px;
+    height: 100px;
+    width: 150px;
+}

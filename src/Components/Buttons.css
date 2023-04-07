@@ -1,0 +1,16 @@
+.buttonsLink {
+    font-size: 17px;
+    height: 46px;
+    width: 100px;
+    border: 1px solid black;
+    margin-bottom: 8px;
+    border-radius: 5px;
+    border-color: rgb(98, 162, 178);
+    text-align: center;
+
+
+}
+
+.Link {
+    text-decoration: none;
+}
